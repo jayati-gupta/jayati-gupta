@@ -1,4 +1,8 @@
-### Namaste 🙏🏼
+<div>
+  
+  <h1 align="center" font-family="" style="text-decoration:none"> ~ Namaste 🙏🏼 World ~ </h1>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Engineer;Python+Developer;Google+Cloud+Platform)](https://git.io/typing-svg)
 
@@ -36,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/jayati-gupta">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jayati-gupta&theme=github_dark&show_icons=true&title_color=34b5ed&text_color=ffffff&icon_color=34b5ed" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayati-gupta&theme=github_dark&layout=compact&title_color=34b5ed&text_color=ffffff&icon_color=fd6744" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jayati-gupta&theme=github_dark&show_icons=true&title_color=34b5ed&text_color=ffffff&icon_color=34b5ed&border_radius=15" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayati-gupta&theme=github_dark&layout=compact&title_color=34b5ed&text_color=ffffff&icon_color=fd6744&border_radius=15" />
   </a>
 </div>
 
@@ -45,7 +49,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jayati-gupta&theme=github_dark&ring=34b5ed&currStreakLabel=34b5ed&dates=34b5ed&sideLabels=34b5ed&sideNums=34b5ed&fire=34b5ed)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayati-gupta&theme=dark&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&ring=34b5ed&currStreakLabel=ffffff&dates=34b5ed&sideLabels=ffffff&sideNums=34b5ed&fire=34b5ed)](https://git.io/streak-stats)
 
 </div>
 
