@@ -25,10 +25,28 @@
 
 <h3 align="right">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
 
-
 <p align="right">
-
-  <a href="https://www.linkedin.com/in/jayatiguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayatigupta" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jayatiguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/linked-in-alt.svg" alt="jayatigupta" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jey.stfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jey.stfu" height="30" width="40" />
+  <a href="https://instagram.com/jey.stfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/instagram.svg" alt="jey.stfu" height="30" width="40" />
 </p>
+
+<!-- Github Stats Section -->
+<h2 align="center"> ⋆ My Github Stats ⋆ </h2>
+
+<div align="center">
+  <a href="https://github.com/jayati-gupta">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jayati-gupta&theme=github_dark&show_icons=true&title_color=34b5ed&text_color=ffffff&icon_color=34b5ed" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayati-gupta&theme=github_dark&layout=compact&title_color=34b5ed&text_color=ffffff&icon_color=fd6744" />
+  </a>
+</div>
+
+</br>
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jayati-gupta&theme=github_dark&ring=34b5ed&currStreakLabel=34b5ed&dates=34b5ed&sideLabels=34b5ed&sideNums=34b5ed&fire=34b5ed)](https://git.io/streak-stats)
+
+</div>
+
+---
