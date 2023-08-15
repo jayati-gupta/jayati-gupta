@@ -1,16 +1,21 @@
-### Hi there 👋
+### Namaste 🙏🏼
 
-<!--
-**jayati-gupta/jayati-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Engineer;Python+Developer;Google+Cloud+Platform)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div>  
+  <h2></h2>
+  
+  - 🔭 I’m currently building **Data Pipelines** on **Google Cloud Platform**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🌱 I’m currently learning **Python**
+
+  - 💬 Ask me about **GCP Services**
+
+  - 📫 How to reach me **jayatiguptaa@gmail.com**
+
+  - ⚡ Fun fact I am an **Introvirtuous**
+
+  - 📄 Want my resume **Download Here [⬇](resume/Jayati_Gupta_Resume.pdf)**
+  
+  <h2></h2>
+</div>
