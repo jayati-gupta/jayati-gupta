@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/jayati-guptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/linked-in-alt.svg" alt="jayatiguptaa" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jey.stfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/instagram.svg" alt="jey.stfu" height="30" width="40" />
-  <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/spotify.svg" alt="jey.stfu" height="30" width="40" />
+  <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/0bb7a142690f64ef87e1e1a900275b1ac35f5c57/icons/spotify.svg" alt="jey.stfu" height="30" width="40" />
 </p>
 
 <!-- Github Stats Section -->
