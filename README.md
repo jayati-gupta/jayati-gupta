@@ -31,7 +31,7 @@
 
 <!-- ═════════════════ ⋆★⋆ ═════════════════ -->
 
-<h3 align="center">Connect with Me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
+<h3 align="center">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
 
 <p align="center">
   <a href="mailto:jayatiguptaa@gmail.com" style="text-decoration:none"><img height="35" width="40" align="center" src = "https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/5f4a348a1d063dac1e83fb66c667371ba86f5911/icons/gmail.svg"></a>
@@ -41,17 +41,19 @@
   <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/spotify.png?raw=true" alt="jey.stfu" height="30" width="30" />
 </p>
 
-## :zap: Skills
+### Skills
+
 <p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  <a>
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/python.png?raw=true" width="65" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/cicd.png?raw=true"  height="65" />
   </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/docker.png?raw=true"  height="65" /> 
   </a>
+ 
 </p>
 
 ### Databases
