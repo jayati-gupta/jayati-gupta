@@ -59,8 +59,8 @@
 
 </div>
 
-<br></br>
+<!-- <br></br>
 <h1 align = 'Center'>🐍 Eating Contribution Graph</h1>
 <p align="center">
-  <img src="https://github.com/jayati-gupta/jayati-gupta/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+  <img src="https://github.com/DarshGupta1910/DarshGupta1910/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> -->
