@@ -15,7 +15,7 @@
 
   - ⛅ I am Google Cloud certified Professional Data Engineer.
 
-  - ⛓ Currently building data pipelines & managing data warehouses on Google Cloud Platform.
+  - ⛓ Currently building data pipelines on Google Cloud Platform.
 
   - 🌱 I enjoy learning about Data Science.
 
