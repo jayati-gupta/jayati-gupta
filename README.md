@@ -45,21 +45,33 @@
 
 <p float="left">
   <a>
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/python.png?raw=true" width="65" />
+    <img src="https://camo.githubusercontent.com/f65efb8eec4948ac47e710a70b6f4bac3b389f5240b4b22bcee14509254945ce/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f632d312e737667" width="50" />
+  </a>
+  <a>
+    <img src="https://camo.githubusercontent.com/7ee2d7f3965036b872a3f281cc82b86f67720e61cf07031e383d0359043094af/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f632e737667" width="50" />
+  </a>
+  <a>
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/python.png?raw=true" width="50" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" width="65" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/cicd.png?raw=true"  height="65" />
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/cicd.png?raw=true"  height="55" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/docker.png?raw=true"  height="65" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  height="55" /> 
+  <a>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" />
+  </a>
   </a>
  
 </p>
 
 ### Databases
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/sql.png?raw=true" height="90" />&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="90" />&nbsp;&nbsp;
   </a>
 </p>
 
