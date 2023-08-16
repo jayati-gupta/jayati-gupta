@@ -13,24 +13,25 @@
 
 <div>  
 
-  
-  - 🔭 I’m currently building data pipelines & managing data warehouses on *Google Cloud Platform*.
+  - ⛅ I am Google Cloud certified Professional Data Engineer.
 
-  - 🌱 I enjoy learning about *Data Science*.
+  - ⛓ Currently building data pipelines & managing data warehouses on Google Cloud Platform.
 
-  - 💬 Ask me about *GCP Services*.
+  - 🌱 I enjoy learning about Data Science.
 
-  - ⚡ Fun fact : I am an *Introvirtuous*.
+  - 💭 Ask me about Cloud Technologies.
 
-  <!-- - 📫 How to reach me **jayatiguptaa@gmail.com** -->
+  - ⚡ Fun fact : I am an Introvirtuous.
 
-  - 📄 Want my resume Download Here [⬇](resume/Jayati_Gupta_Resume.pdf)
+  - 📄 Want my resume Download Here [📌](resume/Jayati_Gupta_Resume.pdf)
+
+   <!-- - 📫 How to reach me **jayatiguptaa@gmail.com** -->
 
 </div>
 
 <!-- ═════════════════ ⋆★⋆ ═════════════════ -->
 
-<h3 align="center">Connect with me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
+<h3 align="center">Connect with Me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayati-guptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/linked-in-alt.svg" alt="jayatigupta" height="30" width="40" />
