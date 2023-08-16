@@ -44,48 +44,52 @@
 ### Skills
 
 <p float="left">
+  <!-- <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/c.svg" width="50" align="center"/>
+  </a> -->
   <a>
-    <img src="https://camo.githubusercontent.com/f65efb8eec4948ac47e710a70b6f4bac3b389f5240b4b22bcee14509254945ce/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f632d312e737667" width="50" />
-  </a>
-  <a>
-    <img src="https://camo.githubusercontent.com/7ee2d7f3965036b872a3f281cc82b86f67720e61cf07031e383d0359043094af/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f632e737667" width="50" />
-  </a>
-  <a>
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/python.png?raw=true" width="50" />
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/python.png?raw=true" width="45" align="center"/>
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" width="65" />
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/c%2B%2B.svg" width="45" align="center"/>
   </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/cicd.png?raw=true"  height="55" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  height="55" /> 
   <a>
-    <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/flask.svg" width="70" align="center"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/66768b643a1d1ab4fbc20a0ba29271751d1b9fad/icons/docker1.svg"  height="50"align="center"/>
+  <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/66768b643a1d1ab4fbc20a0ba29271751d1b9fad/icons/github-actions.svg"  height="55" align="center"/>
+  <a>
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/cicd.png?raw=true"  height="55" align="center"/>
+  </a> 
+  <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/jupyter.svg" width="55" align="center"/>
   </a>
   </a>
- 
 </p>
 
 ### Databases
  <p float="left">
-  <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="90" />&nbsp;&nbsp;
+  <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/66768b643a1d1ab4fbc20a0ba29271751d1b9fad/icons/ms-sql.svg" height="60" align="center"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/mysql.svg" height="80" align="center"/>
   </a>
 </p>
 
 ### Cloud
   <a href="https://console.cloud.google.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="75" />
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="75" align="center"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/azure.svg"  height="70" />
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/azure.svg"  height="65" align="center" />
   </a>
 
 <!-- Github Stats Section -->
 <br></br>
-<h2 align="center"&> ⋆ My Github Stats ⋆ </h2>
+<h2 align="center"> ⋆ My Github Stats ⋆ </h2>
 
 <div align="center">
   <a href="https://github.com/jayati-gupta">
