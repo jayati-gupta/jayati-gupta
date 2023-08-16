@@ -41,7 +41,7 @@
   <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/spotify.png?raw=true" alt="jey.stfu" height="30" width="30" />
 </p>
 
-<!-- ## :zap: Skills
+## :zap: Skills
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -57,14 +57,17 @@
 ### Databases
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/sql.png?raw=true" height="90" />&nbsp;&nbsp;
   </a>
 </p>
 
 ### Cloud
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a> -->
+  <a href="https://console.cloud.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="75" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/azure.svg"  height="70" />
+  </a>
 
 <!-- Github Stats Section -->
 <br></br>
