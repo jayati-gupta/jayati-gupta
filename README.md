@@ -34,9 +34,9 @@
 <h3 align="center">Connect with Me<img align="center" src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayati-guptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/linked-in-alt.svg" alt="jayatigupta" height="30" width="40" />
+  <a href="mailto:jayatiguptaa@gmail.com" style="text-decoration:none"><img height="35" width="40" align="center" src = "https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/5f4a348a1d063dac1e83fb66c667371ba86f5911/icons/gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/jayati-guptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/linked-in-alt.svg" alt="jayatiguptaa" height="30" width="40" />
   </a>
-  <a href="mailto:jayatiguptaa@gmail.com" style="text-decoration:none"><img height="25" align="center" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/jey.stfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/instagram.svg" alt="jey.stfu" height="30" width="40" />
 </p>
 
@@ -59,4 +59,8 @@
 
 </div>
 
----
+<br></br>
+<h1 align = 'Center'>🐍 Eating Contribution Graph</h1>
+<p align="center">
+  <img src="https://github.com/jayati-gupta/jayati-gupta/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
