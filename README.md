@@ -81,10 +81,10 @@
 
 ### Cloud
   <a href="https://console.cloud.google.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="75" align="center"/>
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="60" align="center"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/azure.svg"  height="65" align="center" />
+    <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/azure.svg"  height="50" align="center" />
   </a>
 
 <!-- Github Stats Section -->
