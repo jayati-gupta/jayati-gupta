@@ -64,3 +64,7 @@
 <p align="center">
   <img src="https://github.com/DarshGupta1910/DarshGupta1910/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
+## 🎧 Spotify Playing 
+  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg)
+  
