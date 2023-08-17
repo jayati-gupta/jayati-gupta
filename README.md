@@ -40,7 +40,7 @@
   <a href="https://instagram.com/jey.stfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/64a68b4a3acc3d30303e5432b1ecbb99cd7c799c/icons/instagram.svg" alt="jey.stfu" height="30" width="40" />
   <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/spotify.png?raw=true" alt="jey.stfu" height="30" width="30" />
 </p>
-
+<br></br>
 <h2 align="center"> ⋆ Skills ⋆ </h2>
 <p align="center">
   <!-- <a>
