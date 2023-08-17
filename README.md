@@ -41,9 +41,8 @@
   <a href="https://open.spotify.com/user/312feax6adin6flhcettahvjru5y?si=OGXe_q2tThOfgPM2J6-VIg" target="blank"><img align="center" src="https://github.com/jayati-gupta/jayati-gupta/blob/main/icons/spotify.png?raw=true" alt="jey.stfu" height="30" width="30" />
 </p>
 
-### ⋆ Skills
-
-<p float="left">
+<h2 align="center"> ⋆ Skills ⋆ </h2>
+<p align="center">
   <!-- <a>
     <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/e59adee862e0ed04e8f1e8025316fa32fe9bcd6a/icons/c.svg" width="50" align="center"/>
   </a> -->
@@ -69,8 +68,9 @@
   </a>
 </p>
 
-### ⋆ Databases
- <p float="left">
+<h2 align="center"> ⋆ Databases ⋆ </h2>
+ <!-- <p float="left"> -->
+ <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/66768b643a1d1ab4fbc20a0ba29271751d1b9fad/icons/ms-sql.svg" height="60" align="center"/>
   </a>
@@ -79,7 +79,8 @@
   </a>
 </p>
 
-### ⋆ Clouds
+<h2 align="center"> ⋆ Clouds ⋆ </h2>
+<p align="center">
   <a href="https://console.cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/jayati-gupta/jayati-gupta/444895a188156c477d6add3e049cfe6efa9ab5e3/icons/gcp.svg"  height="60" align="center"/>
   </a>
